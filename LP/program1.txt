@@ -1,0 +1,17 @@
+int main()
+{
+int n,1asd;
+/*This is
+a 7fghn
+multi-line
+comment*/
+for(int i=0;i<10;i++)
+{
+//calculating...
+n=n+1;
+98pok
+}
+//cout<<"Value of n ";
+cout<<"Hello World";
+return 0;
+}
